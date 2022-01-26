@@ -1,4 +1,6 @@
 # aws-tamu-lambda-redirect-rules
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/68f98020-7bd9-439e-935a-c5cb31abc9f9.svg?orgId=635054152320)](https://app.soluble.cloud/repos/details/github.com/aggie-innovation-platform-private/aip-aws-lambda-redirect-rules-base?orgId=635054152320)  
 Lambda@Edge redirection rules, tests, and pipeline
 
 ## Usage Summary
